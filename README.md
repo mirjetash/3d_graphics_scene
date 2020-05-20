@@ -20,7 +20,7 @@ Implementation of different techinques:
  
 # To run the project: 
 ```
-python3 Project3D.py
+python3 scene_implementation.py
 ```
 
 **Note** Resources folder must be in the same directory as scene_implementation.py file.
