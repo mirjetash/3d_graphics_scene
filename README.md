@@ -18,7 +18,7 @@ Implementation of different techinques:
   * Keyboard controls to move specific object in the scene.
 
  
-# To run the project: 
+## To run the project: 
 ```
 python3 scene_implementation.py
 ```
