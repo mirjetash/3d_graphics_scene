@@ -27,9 +27,9 @@ python3 Project3D.py
 
 
 ## Keyboard controls:
-Space_bar: to restart time, therefore restart the animations.
-Key_B: hold this key to render the meshes with blur effect.
-Key W, A, S, D: to control the transform of the modeled figure.
+* Space_bar: to restart time, therefore restart the animations.
+* Key_B: hold this key to render the meshes with blur effect.
+* Key W, A, S, D: to control the transform of the modeled figure.
 
 
 
